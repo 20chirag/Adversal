@@ -1,7 +1,7 @@
 import random
 
 # --------------------------
-# Random Agent
+## Random Agent
 # --------------------------
 
 class RandomAgent:
